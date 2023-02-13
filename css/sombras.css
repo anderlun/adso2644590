@@ -1,0 +1,41 @@
+
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+
+}
+.box-1{
+    box-shadow: 40px 20px 8px;
+    background-color: brown;
+    margin-left: 140px;
+    margin-top: 130px;
+}
+.box-2{
+    box-shadow: 40px 20px 8px;
+    background-color: rgb(142, 165, 42);
+    margin-left: 140px;
+    margin-top: 130px;
+
+}
+.box-3{
+    box-shadow: 40px 20px 8px;
+    background-color: rgb(42, 61, 165);
+    margin-left: 140px;
+    margin-top: 130px;
+
+}
+    
+.box-4{
+    cursor: pointer;
+    background-color: rgb(165, 42, 144);
+    margin-left: 140px;
+    margin-top: 130px;
+
+}
+
+.box-4:hover{
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+   
+}
