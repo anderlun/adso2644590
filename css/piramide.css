@@ -1,0 +1,72 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: brown;
+    margin-left: 140px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(15, 111, 190);
+    margin-left: 140px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(190, 15, 161);
+    margin-left: 140px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(88, 9, 133);
+    margin-left: 140px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(226, 154, 47);
+    margin-left: 140px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box6{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(190, 15, 15);
+    margin-left: 140px;
+    margin-top: 130px;
+    
+}
+.box1:hover{
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
