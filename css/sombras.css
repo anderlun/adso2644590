@@ -1,9 +1,18 @@
 
+body{
+    background-image: url(../imagenes/maicra.jpg);
+    background-size: cover;
+}
 .box{
     width: 200px;
     height: 200px;
     border-radius: 5px;
     display: inline-block;
+
+}
+h1{
+    text-align: center;
+    color: rgb(14, 13, 13);
 
 }
 .box-1{
