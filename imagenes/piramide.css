@@ -1,0 +1,102 @@
+
+.box{
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 90px;
+    cursor: pointer;
+    
+}
+
+h1{
+   
+    text-align: center;
+    color: rgb(252, 59, 59);
+    
+}
+
+body{
+    background-image: url(../imagenes/mario.jpg);
+    background-size: cover;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: brown;
+   
+    
+}
+.box2{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(15, 111, 190);
+    
+  
+}
+.box3{
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(190, 15, 161);
+    
+   
+}
+.box4{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(88, 9, 133);
+    
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(226, 154, 47);
+    
+}
+.box6{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgb(190, 15, 15);
+    
+    
+}
+.box1:hover{
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box2:hover{
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box3:hover{
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box4:hover{
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box5:hover{
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
+.box6:hover{
+    box-shadow: 5px 5px 5px  rgb(119, 40, 40), -5px -5px 5px  rgb(75, 29, 148);
+}
