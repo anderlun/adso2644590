@@ -62,7 +62,7 @@ input[type="submit"]{
     margin-bottom: 20px;
     display: block;
     width: 500px;
-    background-color: aqua;
+    background-color: rgb(0, 0, 0);
     color: aliceblue;
     text-align: center;
     font-size: 1.3em;
